@@ -1,0 +1,12 @@
+C:\Users\anuradha\source\repos\OpenSimpleWebPage\OpenSimpleWebPage\obj\Debug\OpenSimpleWebPage.csprojAssemblyReference.cache
+C:\Users\anuradha\source\repos\OpenSimpleWebPage\OpenSimpleWebPage\obj\Debug\OpenSimpleWebPage.csproj.CoreCompileInputs.cache
+C:\Users\anuradha\source\repos\OpenSimpleWebPage\OpenSimpleWebPage\bin\Debug\OpenSimpleWebPage.exe.config
+C:\Users\anuradha\source\repos\OpenSimpleWebPage\OpenSimpleWebPage\bin\Debug\OpenSimpleWebPage.exe
+C:\Users\anuradha\source\repos\OpenSimpleWebPage\OpenSimpleWebPage\bin\Debug\OpenSimpleWebPage.pdb
+C:\Users\anuradha\source\repos\OpenSimpleWebPage\OpenSimpleWebPage\bin\Debug\WebDriver.dll
+C:\Users\anuradha\source\repos\OpenSimpleWebPage\OpenSimpleWebPage\bin\Debug\WebDriver.Support.dll
+C:\Users\anuradha\source\repos\OpenSimpleWebPage\OpenSimpleWebPage\bin\Debug\WebDriver.xml
+C:\Users\anuradha\source\repos\OpenSimpleWebPage\OpenSimpleWebPage\bin\Debug\WebDriver.Support.xml
+C:\Users\anuradha\source\repos\OpenSimpleWebPage\OpenSimpleWebPage\obj\Debug\OpenSimpleWebPage.csproj.CopyComplete
+C:\Users\anuradha\source\repos\OpenSimpleWebPage\OpenSimpleWebPage\obj\Debug\OpenSimpleWebPage.exe
+C:\Users\anuradha\source\repos\OpenSimpleWebPage\OpenSimpleWebPage\obj\Debug\OpenSimpleWebPage.pdb
