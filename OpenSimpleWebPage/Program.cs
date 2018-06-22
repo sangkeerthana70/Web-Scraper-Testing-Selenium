@@ -24,8 +24,8 @@ namespace OpenSimpleWebPage
             chromeDriver.Keyboard.SendKeys(Keys.Enter);//should take you to a new page
 
             chromeDriver.FindElementByXPath("//*[@id=\"hdtb-msb-vis\"]/div[2]/a").Click();
-            var items = chromeDriver.FindElementsByXPath("//*[@id=\"rso\"]/div[1]/div/div[*]/div/div[2]/div/div[1]/a");
-            Console.WriteLine(items.Count);
+            var items = chromeDriver.FindElementsByXPath("//*[@id=\"rso\"]/div[1]/div/div[*]/div/div[2]/div/div[1]/a");//generates a list of searched shopping items.
+            Console.WriteLine(items.Count);//verify number of search items.
 
             foreach (var item in items)
             {
