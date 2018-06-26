@@ -16,6 +16,8 @@ namespace OpenSimpleWebPage
             var chromeDriver = new ChromeDriver(options);//create chrome driver
             chromeDriver.Navigate().GoToUrl("https://google.com");//navigate to google.com
                 Console.WriteLine("Hello I'm Google");
+            chromeDriver.Manage().Window.Maximize();//maximizes the window
+            //chromeDriver.Manage().Timeouts().ImplicitlyWait(TimeSpan.FromSeconds(10));
 
 
 
