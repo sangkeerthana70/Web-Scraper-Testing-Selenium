@@ -1,0 +1,13 @@
+//*[@id="lst-ib"] --X-path for google search box.
+
+//*[@id="hdtb-msb-vis"]/div[5]/a --X-path for shopping tab
+
+//*[@id="rso"]/div[1]/div/div[1]/div/div[2]/div/div[1]/a-
+
+//*[@id="rso"]/div[1]/div/div[2]/div/div[2]/div/div[1]/a
+
+
+//*[@id="cbBGuNGT9FoTwM:"]
+
+
+//*[@id="hdtb-msb-vis"]/div[2]/a
