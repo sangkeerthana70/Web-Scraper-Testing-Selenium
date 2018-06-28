@@ -28,10 +28,12 @@ namespace YahooFinance
             chromeDriver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);//implicitly wait until the next search element is found
             chromeDriver.FindElement(By.Id("login-username")).SendKeys("asangeethu@yahoo.com");
             chromeDriver.FindElement(By.Id("login-signin")).Click();
+            //implicitly wait until the next search element is found
             chromeDriver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
             
             chromeDriver.FindElement(By.Id("login-passwd")).SendKeys("@nuk1978");
             chromeDriver.FindElement(By.Id("login-signin")).Click();
+            //implicitly wait until the next search element is found
             chromeDriver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
             chromeDriver.Url = ("https://finance.yahoo.com/portfolio/p_1/view/v1");
             chromeDriver.FindElementByXPath("//*[@id=\"uh\"]/header/ul[2]/li[3]/a").Click();
