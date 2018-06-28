@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2000
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YahooFinance", "YahooFinance\YahooFinance.csproj", "{B89B483A-A8B2-4031-B158-5BDCFD751768}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B89B483A-A8B2-4031-B158-5BDCFD751768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B89B483A-A8B2-4031-B158-5BDCFD751768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B89B483A-A8B2-4031-B158-5BDCFD751768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B89B483A-A8B2-4031-B158-5BDCFD751768}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59CD7EE2-6D2C-4255-A0FC-48023F513F57}
+	EndGlobalSection
+EndGlobal

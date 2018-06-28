@@ -1,0 +1,12 @@
+C:\Users\anuradha\source\repos\OpenSimpleWebPage\YahooFinance\YahooFinance\bin\Debug\YahooFinance.exe.config
+C:\Users\anuradha\source\repos\OpenSimpleWebPage\YahooFinance\YahooFinance\bin\Debug\YahooFinance.exe
+C:\Users\anuradha\source\repos\OpenSimpleWebPage\YahooFinance\YahooFinance\bin\Debug\YahooFinance.pdb
+C:\Users\anuradha\source\repos\OpenSimpleWebPage\YahooFinance\YahooFinance\bin\Debug\WebDriver.dll
+C:\Users\anuradha\source\repos\OpenSimpleWebPage\YahooFinance\YahooFinance\bin\Debug\WebDriver.Support.dll
+C:\Users\anuradha\source\repos\OpenSimpleWebPage\YahooFinance\YahooFinance\bin\Debug\WebDriver.xml
+C:\Users\anuradha\source\repos\OpenSimpleWebPage\YahooFinance\YahooFinance\bin\Debug\WebDriver.Support.xml
+C:\Users\anuradha\source\repos\OpenSimpleWebPage\YahooFinance\YahooFinance\obj\Debug\YahooFinance.csprojAssemblyReference.cache
+C:\Users\anuradha\source\repos\OpenSimpleWebPage\YahooFinance\YahooFinance\obj\Debug\YahooFinance.csproj.CoreCompileInputs.cache
+C:\Users\anuradha\source\repos\OpenSimpleWebPage\YahooFinance\YahooFinance\obj\Debug\YahooFinance.csproj.CopyComplete
+C:\Users\anuradha\source\repos\OpenSimpleWebPage\YahooFinance\YahooFinance\obj\Debug\YahooFinance.exe
+C:\Users\anuradha\source\repos\OpenSimpleWebPage\YahooFinance\YahooFinance\obj\Debug\YahooFinance.pdb

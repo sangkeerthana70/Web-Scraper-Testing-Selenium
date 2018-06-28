@@ -7,3 +7,6 @@
 # except build/, which is used as an MSBuild target.
 !**/[Pp]ackages/build/
 
+#Debug/debug.log.
+*. OpenSimpleWebPage/bin/Debug/debug.log
+*.YahooFinance/YahooFinance/bin/Debug/debug.log.
