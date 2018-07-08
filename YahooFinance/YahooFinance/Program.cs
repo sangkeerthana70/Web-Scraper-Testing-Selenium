@@ -18,7 +18,8 @@ namespace YahooFinance
         {
             var options = new ChromeOptions();
             options.AddArguments("--disable-gpu");
-            
+            options.AddArguments("disable-popup-blocking");//to disable pop-up blocking
+
             var chromeDriver = new ChromeDriver(options);//create chrome driver
             //var wait = new chromeDriverWait(chromeDriver, TimeSpan.FromSeconds(20));
 
@@ -37,9 +38,20 @@ namespace YahooFinance
             //implicitly wait until the next search element is found
             chromeDriver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
             chromeDriver.Url = ("https://finance.yahoo.com/portfolio/p_1/view/v1");
-            options.AddArguments("disable-popup-blocking");//to disable pop-up blocking
+            //chromeDriver.Manage().Timeouts().ImplicitWait = TimeSpan.FromSeconds(10);
+            Console.WriteLine("Hello I'm here");
+            var closePopup = chromeDriver.FindElementByXPath("//dialog[@id = '__dialog']/section/button");
+            closePopup.Click();
+            // chromeDriver.FindElementByXPath("//*[@id=\"fin-tradeit\"]/div[2]/div/div/div[2]/button[2]").Click();//click on the pop-up window using X-path to disable it.
 
-            chromeDriver.FindElementByXPath("//*[@id=\"uh\"]/header/ul[2]/li[3]/a").Click();
+            Console.WriteLine("Hello I'm here2");
+            var items = chromeDriver.FindElementsByXPath("//*[@id=\"main\"]/section/section[2]/div[2]/table/tbody/tr[*]/td[*]");
+            Console.WriteLine("Hello I'm here3");
+
+            foreach (var item in items)
+            {
+                Console.WriteLine("My watchlist : " + item.Text);
+            }
         }
     }
 }
